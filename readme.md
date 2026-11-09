@@ -57,6 +57,7 @@ Self-attention allows each token to assign different weights to all other
 tokens in the same sequence. Unlike a fixed-size local representation, the
 resulting context vector is conditioned on the complete input sequence.
 
+
 ![alt text](images/image-2.png)
 
 ![alt text](images/image-3.png)
